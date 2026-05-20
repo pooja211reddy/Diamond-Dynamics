@@ -1,4 +1,4 @@
-#💎 Diamond Dynamics  
+# 💎 Diamond Dynamics  
 ### 🚀 Price Prediction & Market Segmentation using Machine Learning  
 
 <p align="center">
