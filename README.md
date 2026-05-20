@@ -1,5 +1,5 @@
-### 💎 Diamond Dynamics  
-## 🚀 Price Prediction & Market Segmentation using Machine Learning  
+#💎 Diamond Dynamics  
+### 🚀 Price Prediction & Market Segmentation using Machine Learning  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.13-blue?logo=python">
